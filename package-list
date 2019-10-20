@@ -1,0 +1,12 @@
+com.shiftmatch
+com.shiftmatch.client
+com.shiftmatch.common
+com.shiftmatch.configuration
+com.shiftmatch.controller
+com.shiftmatch.exception
+com.shiftmatch.model
+com.shiftmatch.model.cascom.user
+com.shiftmatch.repository
+com.shiftmatch.security
+com.shiftmatch.service
+com.shiftmatch.task
